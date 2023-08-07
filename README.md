@@ -1,5 +1,5 @@
 ### 
-[![Seb's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sebsadface)](https://github.com/sebsadface/github-readme-stats)
+
 <!--
 **sebsadface/sebsadface** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
