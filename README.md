@@ -1,5 +1,6 @@
 ### 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebsadface"></img>
+![Seb's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sebsadface&theme=radical&layout=compact)
 <!--
 **sebsadface/sebsadface** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
