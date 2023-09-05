@@ -4,7 +4,7 @@
 
 🌏 From Urumqi, China.
 
-👨‍🎓 Studying computer science and business at the University of Washington.
+👨‍🎓 Studying computer science and business at <a href="https://www.cs.washington.edu/">the University of Washington</a>.
 
 🌱 I delve into blockchain & decentralized technologies and occasionally snap <a href="https://www.instagram.com/sebsadface/">photos</a>.
 
