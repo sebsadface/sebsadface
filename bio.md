@@ -1,4 +1,3 @@
-☁️☁️☁️☁️☁️
 
 👋 Hi, I'm Sebastian.
 
@@ -27,5 +26,3 @@
     🎓 Graduated from <a href="https://www.polkadot.network/development/academy/">Polkadot Blockcahin Academy</a> cohort 3.
 
     ☀️ Enjoying my time at <a href="https://twitter.com/outlierdao/">Outliers</a>.
-
-☁️☁️☁️☁️☁️
