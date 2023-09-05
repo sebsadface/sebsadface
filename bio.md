@@ -1,5 +1,3 @@
-☁️☁️☁️☁️☁️ 
-
 👋 Hi, I'm Sebastian.
 
 🌏 From Urumqi, China.
@@ -24,5 +22,3 @@
   - <a href="<https://www.cairo-lang.org/>">Cairo</a>.
  🎓 Graduated from <a href="https://www.polkadot.network/development/academy/">Polkadot Blockcahin Academy</a> cohort 3.
  ☀️ Enjoying my time at <a href="https://twitter.com/outlierdao/">Outliers</a>.
-
-☁️☁️☁️☁️☁️
