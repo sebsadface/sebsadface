@@ -2,9 +2,9 @@
 
 👋 Hi, I'm Sebastian.
 
-🌏 From Urumqi, China.
+🌏 From <a href="https://goo.gl/maps/VWc4w6wPdNxqgKrB6">Urumqi, China</a>.
 
-👨‍🎓 Studying computer science and business at <a href="https://www.cs.washington.edu/">the University of Washington</a>.
+👨‍🎓 I'm studying computer science and business at <a href="https://www.cs.washington.edu/">the University of Washington</a>.
 
 🌱 I delve into blockchain & decentralized technologies and occasionally snap <a href="https://www.instagram.com/sebsadface/">photos</a>.
 
